@@ -1,5 +1,6 @@
 package com.bl.programmes;
 
+
 class Node{
     int data;
     Node left;
