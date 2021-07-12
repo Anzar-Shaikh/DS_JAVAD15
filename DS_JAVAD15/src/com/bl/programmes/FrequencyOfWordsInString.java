@@ -3,7 +3,7 @@ package com.bl.programmes;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Frequency_Of_String_Words {
+public class FrequencyOfWordsInString {
 
     static void countFreq(String str) {
         Map<String,Integer> map=new TreeMap<>();
